@@ -22,31 +22,31 @@ body.overlay {
   border-bottom: 1px solid #ffffff;
 }
 #header {
-  background-color: #cf3535;
-  background-image: -moz-linear-gradient(top, #cd2d2d 0%, #cf3535 100%);
-  background-image: -ms-linear-gradient(top, #cd2d2d 0%, #cf3535 100%);
-  background-image: -o-linear-gradient(top, #cd2d2d 0%, #cf3535 100%);
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #cd2d2d), color-stop(1, #cf3535));
-  background-image: -webkit-linear-gradient(top, #cd2d2d 0%, #cf3535 100%);
-  background-image: linear-gradient(top, #cd2d2d 0%, #cf3535 100%);
+  background-color: #fff;
+  background-image: -moz-linear-gradient(top, #fff 0%, #fff 100%);
+  background-image: -ms-linear-gradient(top, #fff 0%, #fff 100%);
+  background-image: -o-linear-gradient(top, #fff 0%, #fff 100%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #fff));
+  background-image: -webkit-linear-gradient(top, #fff 0%, #fff 100%);
+  background-image: linear-gradient(top, #fff 0%, #fff 100%);
 }
 a {
-  color: #d61111;
+  color: #000eb3;
 }
 a:hover,
 a:focus {
-  color: #ff0f0f;
+  color: #0013e2;
 }
 a:active {
-  color: #ff4545;
+  color: #2235ff;
 }
 .sidebar .block {
-  background-color: #f1f4f0;
-  border-color: #ededed;
+  background-color: #f6f6f2;
+  border-color: #f9f9f9;
 }
 #page-wrapper,
 #footer-wrapper {
-  background: #1f1d1c;
+  background: #292929;
 }
 .region-header,
 .region-header a,
